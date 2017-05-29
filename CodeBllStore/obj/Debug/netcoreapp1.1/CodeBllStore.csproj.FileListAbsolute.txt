@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2017\Projects\CodeBllStore\CodeBllStore\bin\Debug\netcoreapp1.1\CodeBllStore.deps.json
+c:\users\admin\documents\visual studio 2017\Projects\CodeBllStore\CodeBllStore\bin\Debug\netcoreapp1.1\CodeBllStore.runtimeconfig.json
+c:\users\admin\documents\visual studio 2017\Projects\CodeBllStore\CodeBllStore\bin\Debug\netcoreapp1.1\CodeBllStore.runtimeconfig.dev.json
+c:\users\admin\documents\visual studio 2017\Projects\CodeBllStore\CodeBllStore\bin\Debug\netcoreapp1.1\CodeBllStore.dll
+c:\users\admin\documents\visual studio 2017\Projects\CodeBllStore\CodeBllStore\bin\Debug\netcoreapp1.1\CodeBllStore.pdb
+c:\users\admin\documents\visual studio 2017\Projects\CodeBllStore\CodeBllStore\obj\Debug\netcoreapp1.1\CodeBllStore.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\CodeBllStore\CodeBllStore\obj\Debug\netcoreapp1.1\CodeBllStore.AssemblyInfo.cs
+c:\users\admin\documents\visual studio 2017\Projects\CodeBllStore\CodeBllStore\obj\Debug\netcoreapp1.1\CodeBllStore.dll
+c:\users\admin\documents\visual studio 2017\Projects\CodeBllStore\CodeBllStore\obj\Debug\netcoreapp1.1\CodeBllStore.pdb
