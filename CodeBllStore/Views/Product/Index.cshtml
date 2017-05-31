@@ -1,0 +1,25 @@
+@model CodeBllStore.Models.ViewModels.ProductsListViewModel
+
+@{
+    ViewData["Title"] = "Product List";
+}
+
+<div class="col-md-4">
+    kategoriler
+</div>
+<div class="col-md-8">
+
+    @*Ürünler Shared klasörü altýndaki ProductList Partial View'in den geliyor.*@
+    @Html.Partial("ProductList", Model.Products)
+
+
+    @*TagHelper kullanarak oluþturduðumuz sayfalama yapýmýz.*@
+    <divPager page-model="@Model.PagingInfo" page-action="Index" page-classes-enabled="true"
+              page-class="btn" page-class-normal="btn-default"
+              page-class-selected="btn-primary" class="btn-group pull-right">
+    </divPager>
+
+</div>
+
+
+

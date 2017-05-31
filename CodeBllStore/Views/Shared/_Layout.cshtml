@@ -4,11 +4,26 @@
 <head>
     <meta name="viewport" content="width=device-width" />
     <title>@ViewBag.Title</title>
+
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
 </head>
 <body>
-    <div>Ben layout sayfasından geldim.</div>
-    <div>
-        @RenderBody()
+
+
+    <div class="navbar navbar-inverse" role="navigation">
+        <div class="container">
+            <a class="navbar-brand" href="/">CodeBll Store</a>
+            <ul class="nav navbar-nav">
+                <li><a href="/Product">Ürünler</a></li>
+              
+            </ul>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row panel">
+            @RenderBody()
+           
+        </div>
     </div>
 </body>
 </html>
